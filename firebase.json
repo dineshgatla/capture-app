@@ -1,0 +1,14 @@
+// firebase.json
+{
+    "rules": [
+      {
+        "allow": "read",
+        "match": ["**"]
+      },
+      {
+        "allow": "write",
+        "match": ["**"]
+      }
+    ]
+  }
+  
